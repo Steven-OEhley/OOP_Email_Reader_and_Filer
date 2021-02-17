@@ -6,7 +6,7 @@
 
 # import os
 # used to check if a mail box has been set up or not
-# if no mail_settings file exists then the proramme will execute a mailbox set up on the first time the file is run
+# if no mail_settings file exists then the programme will execute a mailbox set up on the first time the file is run
 # if the file exists the programme will skip the set up
 import os
 
